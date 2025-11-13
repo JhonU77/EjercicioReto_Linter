@@ -23,3 +23,4 @@ while (!adivinado) {
 
 var mensaje = "hola mundo";
 console.log(mensaje);
+mensaje = "hola";
