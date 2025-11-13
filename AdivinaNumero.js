@@ -20,3 +20,8 @@ while (!adivinado) {
     alert("Por favor ingresa un número válido.");
   }
 }
+
+function saludo() {
+  console.log("hola");
+}
+saludo();
