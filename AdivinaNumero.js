@@ -21,7 +21,5 @@ while (!adivinado) {
   }
 }
 
-function saludo() {
-  console.log("hola");
-}
-saludo();
+var mensaje = "hola mundo";
+console.log(mensaje);
